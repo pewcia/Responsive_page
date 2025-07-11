@@ -17,12 +17,11 @@ a {
   color: blueviolet;
   text-decoration: underline;
   text-align: center;
+  font-size: 1.2em;
   display: block;
   margin: 20px auto;
   width: fit-content;
-  font-size: 1.2em;
 }
-
 a:hover {
   color: darkblue;
 }
@@ -42,6 +41,16 @@ img {
     display: block;
     max-width: 80%;
     height:auto;
+ }
+
+ footer {
+    background-color: rgb(240, 248, 252);
+    padding: 40px;
+    display:flex;
+    justify-content:center;
+    gap: 0.5rem;
+    margin: 20px auto;
+
  }
 
  
