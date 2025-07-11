@@ -1,0 +1,15 @@
+body {
+  color: rgb(38, 56, 71);
+  background-color: rgb(240, 248, 252);
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  
+}
+
+a {
+  color: blueviolet;
+  text-decoration: underline;
+}
